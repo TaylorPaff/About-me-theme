@@ -1,34 +1,33 @@
-title: "About me theme for Spress"
-description: "Another site creted with Spress"
+title: "Taylor Seth Pafford"
+description: "All about Taylor Seth Pafford"
 keywords:
-    - html5
-    - css3
-    - theme
-    - responsive
-    - spress
+    - taylorseth
+    - taylor
+    - seth
+    - pafford
+    - taylorsethpafford
 
 author:
-    name: "Rob Denton"
-    headline: "UX Designer & Strategist"
+    name: "Taylor Pafford"
+    headline: "Student and Java Developer"
     bio: |
-      Passionate software engineer, polyglot programmer
-      and agile engineering advocate.
+      Java Developer, high school student, college
+      student and NJROTC cadet.
     interests:
-        - Javascript
-        - CSS3
-        - PHP
-        - Symfony
+        - Java
+        - Systems Administration
+        - NJROTC
 
 # Social networks card
 social_networks:
     twitter: "spress_cms" # Your id without @
     facebook:  # Your URL
-    instagram: # Your id
+    instagram: "taylorpafford"
     github: "https://github.com/spress/Spress"
     dribbble: # Your id
     linkedin: # Your URL
-    email: # Your email adress you@yoourDomain.com
-    url: # Your URL
+    email: "me@taylorseth.me"
+    url: "taylorseth.me"
 
 texts:
     default_color: "#fff"
